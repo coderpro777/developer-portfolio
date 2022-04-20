@@ -11,30 +11,30 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'History Through Movies',
-        projectDesc: 'This project seeks to explore whether the pedagogy of history can be improved with the visual media, particularly Cinema. The Website is intended to show movies that fit the bill. I have a fullstack role in this having built all of it.',
-        tags: ['Django', 'HTML' ,'CSS', 'Javascript'],
-        code: 'https://github.com/sreerag-rajan/historythroughmovies',
-        demo: 'https://historythroughmovies.pythonanywhere.com/',
-        image: "https://github.com/sreerag-rajan/historythroughmovies/raw/master/htclandingpage.png"
+        projectName: 'Robofriends',
+        projectDesc: 'This project seeks to explore API and React technologies to provide a responsive user interaction and find your robofriends.',
+        tags: ['Rest API', 'React'],
+        code: 'https://github.com/coderpro777/robofriends-redux',
+        demo: 'https://robofriends.azwebsolutions.net/',
+        image: "https://azwebsolutions.net/images/robofriends.png"
     },
     {
         id: 2,
-        projectName: 'Sportsjam.in Clone',
-        projectDesc: 'This is a clone of an e-commerce website sportsjam.in. My contribution to this project was the product catalogue page and its features, like sorting and filtering. The rest of the project was built by various members of the group',
+        projectName: 'Background-Generator',
+        projectDesc: 'This is a project I did while learning to code HTML5, CSS3 and Javascript. Basically you input 2 different colors and the linear gradient to be able to use this as a website background is generated automatically.',
         tags: ['HTML', 'CSS','Javascript'],
-        code: 'https://github.com/sreerag-rajan/sportsjam-clone',
-        demo: 'https://practical-meninsky-36f305.netlify.app/',
-        image: "https://camo.githubusercontent.com/f9fbe30b577cff2fbf09af53fb3c1f12fcc10a771bf9459ed5af10bffab9e38b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a525f5f63646e384c316759474b3154647171797562672e706e67"
+        code: 'https://github.com/coderpro777/backgroundgenerator',
+        demo: 'https://backgroundgenerator.azwebsolutions.net/',
+        image: "https://azwebsolutions.net/images/backgroundgenerator.png"
     },
     {
         id: 3,
-        projectName: 'Educative Clone',
-        projectDesc: 'This project is the clone of Educative.io. Built as part of Project week, my contributions include the home page(both with user and without user), course information page and checkout page. The rest of the pages and features were built by other members of my team',
-        tags: ['React', 'Material UI', 'Express', "MongoDB","NodeJS"],
-        code: 'https://github.com/sreerag-rajan/educative-clone',
-        demo: 'https://educative-clone.vercel.app/',
-        image: "https://user-images.githubusercontent.com/85482640/161571651-35ab8e4e-dc57-4834-bafc-9485766f5b8a.png"
+        projectName: 'e-Learning System Chongon digital for 2 rural communities in Ecuador',
+        projectDesc: 'This was my graduation project which set me up as a web developer, learning best practices, security, it uses front end with bootstrap and the backend with php and a database MySQL',
+        tags: ['HTML5','CSS3', 'Bootstrap', 'Javascript', "PHP","MySQL"],
+        code: 'https://github.com/coderpro777/chongon-digital',
+        demo: 'https://chongondigital.azwebsolutions.net',
+        image: "https://azwebsolutions.net/images/chongondigital.png"
     },
     {
         id: 4,

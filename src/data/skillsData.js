@@ -3,10 +3,12 @@
     'Javascript',
     'CSS',
     'React',
-    'Django',
-    'MongoDB',
-    'MySQL',
-    'Python'
+    'PHP',
+    'git',
+    'Bootstrap',
+    'PostgreSQL',
+    'MySQL'
+    
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
